@@ -19,7 +19,7 @@
         <time>0</time>
         <monsters>
           <monster>
-            <type>1</type>
+            <type>0</type>
             <number>1</number>
           </monster>
         </monsters>
